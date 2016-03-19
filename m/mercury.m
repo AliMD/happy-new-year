@@ -5,4 +5,4 @@
 
 :- implementation.
 main(!IO) :-
-	io.write_string("Hello, World!\n", !IO).
+	io.write_string("Happy New Year 1395!\n", !IO).

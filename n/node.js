@@ -1,1 +1,1 @@
-console.log('Hello world!');
+console.log('Happy New Year 1395!');

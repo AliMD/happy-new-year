@@ -1,2 +1,2 @@
 # awk -f awk.awk
-BEGIN { print "Hello World" }
+BEGIN { print "Happy New Year 1395" }

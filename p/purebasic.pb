@@ -1,3 +1,3 @@
 If OpenConsole()
-  PrintN("Hello World")
+  PrintN("Happy New Year 1395")
 EndIf

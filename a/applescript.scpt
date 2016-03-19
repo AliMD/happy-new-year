@@ -1,1 +1,1 @@
-display dialog "Hello World"  
+display dialog "Happy New Year 1395"  

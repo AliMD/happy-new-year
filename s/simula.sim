@@ -1,4 +1,4 @@
 Begin
-   OutText ("Hello World!");
+   OutText ("Happy New Year 1395!");
    Outimage;
 End;

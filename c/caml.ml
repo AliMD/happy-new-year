@@ -1,1 +1,1 @@
-print_endline "Hello world!";;
+print_endline "Happy New Year 1395!";;

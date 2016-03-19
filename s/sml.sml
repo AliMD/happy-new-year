@@ -1,1 +1,1 @@
-val () = print "Hello World\n"
+val () = print "Happy New Year 1395\n"

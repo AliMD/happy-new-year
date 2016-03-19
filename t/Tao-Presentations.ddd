@@ -4,7 +4,7 @@
 //
 // File Description:
 //
-// Original hello world with Tao Presentations.
+// Original Happy New Year 1395 with Tao Presentations.
 // http://www.taodyne.com/shop/en/blog/3-getting-started-with-tao-presentations
 //
 //
@@ -49,7 +49,7 @@ earth R ->
 
 hello_world R ->
 // ----------------------------------------------------------------------------
-//    Draw "hello world" text
+//    Draw "Happy New Year 1395" text
 // ----------------------------------------------------------------------------
     locally
         frame_texture 1900, 600,
@@ -60,7 +60,7 @@ hello_world R ->
             // with Tao presentations).
             font "Arial Unicode MS", "unifont", 72
             move_to -800, -9, 0
-            text "Hello World! or Καλημέρα κόσμε; or こんにちは 世界"
+            text "Happy New Year 1395! or Καλημέρα κόσμε; or こんにちは 世界"
         rotatey -11 * page_time + 180
         color 20% , 20% , 20% , 70%
         sphere 0, 0, 0, R - 30

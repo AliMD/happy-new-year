@@ -4,7 +4,7 @@ FROM Terminal2 IMPORT WriteString, WriteLn;
 
 BEGIN
 
-    WriteString("Hello World");
+    WriteString("Happy New Year 1395");
     WriteLn;
     
 END HelloWorld.

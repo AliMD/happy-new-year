@@ -1,7 +1,7 @@
-#HELLO WORLD.
+#Happy New Year 1395.
 
 @width 3
 @height 1
 
 (1,1):START
-(3,1):PRINT 'Hello World' 
+(3,1):PRINT 'Happy New Year 1395' 

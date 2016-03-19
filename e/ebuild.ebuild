@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-DESCRIPTION="Hello World"
+DESCRIPTION="Happy New Year 1395"
 HOMEPAGE="http://hello-world.org/"
 SRC_URI="http://hello-world.org/"
 
@@ -15,5 +15,5 @@ DEPEND=""
 RDEPEND=""
 
 src_compile() {
-	einfo "Hello World"
+	einfo "Happy New Year 1395"
 }

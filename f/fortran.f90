@@ -1,3 +1,3 @@
 program helloworld
-print *,'Hello World'
+print *,'Happy New Year 1395'
 end program helloworld

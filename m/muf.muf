@@ -1,3 +1,3 @@
 : main
-    me @ "Hello World" notify
+    me @ "Happy New Year 1395" notify
 ;

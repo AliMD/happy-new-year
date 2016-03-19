@@ -1,1 +1,1 @@
-PROC main() IS WriteF('Hello World\n')
+PROC main() IS WriteF('Happy New Year 1395\n')

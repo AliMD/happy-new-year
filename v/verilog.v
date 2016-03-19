@@ -1,7 +1,7 @@
 module main;
   initial
     begin
-      $display("Hello World!");
+      $display("Happy New Year 1395!");
       $finish;
     end
 endmodule

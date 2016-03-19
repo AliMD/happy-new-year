@@ -1,1 +1,1 @@
-bprint("Hello World\n");
+bprint("Happy New Year 1395\n");

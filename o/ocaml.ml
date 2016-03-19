@@ -1,1 +1,1 @@
-print_string "Hello World\n"
+print_string "Happy New Year 1395\n"

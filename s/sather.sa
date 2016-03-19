@@ -1,7 +1,7 @@
 class MAIN is
    main is 
       loop 
-         #OUT + "Hello World!\n" 
+         #OUT + "Happy New Year 1395!\n" 
       end 
    end
 end

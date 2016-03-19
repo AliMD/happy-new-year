@@ -1,1 +1,1 @@
-: HELLO ." Hello, world!" CR ;
+: HELLO ." Happy New Year 1395!" CR ;

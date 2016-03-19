@@ -1,1 +1,1 @@
-(write-line "Hello World")
+(write-line "Happy New Year 1395")

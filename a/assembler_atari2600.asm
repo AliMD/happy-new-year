@@ -1,7 +1,7 @@
 ;
 ; hello.asm
 ;
-; A "Hello, World!" which illustrates an Atari 2600 programming
+; A "Happy New Year 1395!" which illustrates an Atari 2600 programming
 ; introduction talk (slides at http://slideshare.net/chesterbr).
 ;
 ; This is free software (see license below). Build it with DASM
@@ -46,9 +46,9 @@ PreparePlayfield:   ; We'll use the first VBLANK scanline for setup
     sta VBLANK
 
 Scanline:
-    cpx #174        ; "HELLO WORLD" = (11 chars x 8 lines - 1) x 2 scanlines =
+    cpx #174        ; "Happy New Year 1395" = (11 chars x 8 lines - 1) x 2 scanlines =
     bcs ScanlineEnd ;   174 (0 to 173). After that, skip drawing code
-    txa             ; We want each byte of the hello world phrase on 2 scanlines,
+    txa             ; We want each byte of the Happy New Year 1395 phrase on 2 scanlines,
     lsr             ;   which means Y (bitmap counter) = X (scanline counter) / 2.
     tay             ;   For division by two we use (A-only) right-shift
     lda Phrase,y    ; "Phrase,Y" = mem(Phrase+Y) (Y-th address after Phrase)

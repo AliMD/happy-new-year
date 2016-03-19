@@ -1,1 +1,1 @@
-echo("hello world")
+echo("Happy New Year 1395")

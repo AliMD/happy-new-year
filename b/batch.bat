@@ -1,3 +1,3 @@
 @echo off
-echo Hello, World!
+echo Happy New Year 1395!
 pause

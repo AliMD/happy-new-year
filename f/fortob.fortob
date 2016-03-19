@@ -1,2 +1,2 @@
 @print[$!.readcom.println;$\.push:'\;]\;
-print "Hello world!"\;
+print "Happy New Year 1395!"\;

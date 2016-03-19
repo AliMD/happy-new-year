@@ -1,1 +1,1 @@
-put "Hello World!"
+put "Happy New Year 1395!"

@@ -1,4 +1,4 @@
-; "Hello World" in Motorola 68000 machine language, for AmigaOS
+; "Happy New Year 1395" in Motorola 68000 machine language, for AmigaOS
 
 ExecBase     = 4
 OpenLibrary  = -552
@@ -30,4 +30,4 @@ PutStr       = -948
 	rts
 
 lib	dc.b	"dos.library", 0
-msg	dc.b	"Hello World!\n", 0
+msg	dc.b	"Happy New Year 1395!\n", 0

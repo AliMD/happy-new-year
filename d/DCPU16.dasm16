@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;
 jsr init_devices
-jsr Hello_World
+jsr Hello_1395
 set PC,end
 ;;;;;;;;;;;;;;;;;;;
 :dev_screen   dat 0
@@ -19,13 +19,13 @@ ifn I,device_count
 set PC,pop
 :init_devices
 jsr find_devices
-;set up display 
+;set up display
 set A,0
 set B,0x8000
 hwi [dev_screen]
 set PC,pop
 
-:Hello_World
+:Hello_1395
 set [0x8000],0x1048
 set [0x8001],0x1065
 set [0x8002],0x106c

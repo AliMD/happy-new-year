@@ -1,5 +1,5 @@
 Module HelloWorld
     Sub Main()
-        MsgBox("Hello world!")
+        MsgBox("Happy New Year 1395!")
     End Sub
 End Module

@@ -1,4 +1,4 @@
 GBL;
-Bug("1", "Hello, World!");
+Bug("1", "Happy New Year 1395!");
 Scuttle("1");
 Write;

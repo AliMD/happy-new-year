@@ -1,1 +1,1 @@
-trace( "Hello World" );
+trace( "Happy New Year 1395" );

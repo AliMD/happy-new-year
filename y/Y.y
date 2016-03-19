@@ -5,6 +5,6 @@ module helloworld
 	import printf from "ylib.d"
 
 	main()
-		printf("Hello World\n")
+		printf("Happy New Year 1395\n")
 	end
 end

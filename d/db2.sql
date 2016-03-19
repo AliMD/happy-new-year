@@ -1,1 +1,1 @@
-VALUES('hello world')
+VALUES('Happy New Year 1395')

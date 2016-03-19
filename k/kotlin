@@ -1,5 +1,5 @@
 package hello
  
 fun main(args : Array<String>) {
-  println("Hello, world!")
+  println("Happy New Year 1395!")
 }

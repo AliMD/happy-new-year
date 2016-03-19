@@ -1,6 +1,6 @@
-Hello World Cake with Chocolate sauce.
+Happy New Year 1395 Cake with Chocolate sauce.
 
-This prints hello world, while being tastier than Hello World Souffle. The main
+This prints Happy New Year 1395, while being tastier than Happy New Year 1395 Souffle. The main
 chef makes a " world!" cake, which he puts in the baking dish. When he gets the
 sous chef to make the "Hello" chocolate sauce, it gets put into the baking dish
 and then the whole thing is printed when he refrigerates the sauce. When

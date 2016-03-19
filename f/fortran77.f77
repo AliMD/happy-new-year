@@ -1,3 +1,3 @@
       PROGRAM HELLOW
-      WRITE(UNIT=*, FMT=*) 'Hello World'
+      WRITE(UNIT=*, FMT=*) 'Happy New Year 1395'
       END

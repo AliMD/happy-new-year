@@ -1,1 +1,1 @@
-MsgBox "Hello world!"
+MsgBox "Happy New Year 1395!"

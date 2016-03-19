@@ -2,5 +2,5 @@ import "mod_say"
  
 Process Main()
 Begin 
-    say("Hello World!");
+    say("Happy New Year 1395!");
 End

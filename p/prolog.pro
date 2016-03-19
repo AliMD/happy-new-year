@@ -1,4 +1,4 @@
 helloWorld :-
-  write('Hello World').
+  write('Happy New Year 1395').
 
 :- helloWorld.

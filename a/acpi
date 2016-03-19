@@ -1,6 +1,6 @@
 Scope(\) {
 	Method(_WAK) {
-		Store ("Hello World", Debug)
+		Store ("Happy New Year 1395", Debug)
 		Return(Package(2){0x00000000,0})
 	}	
 }

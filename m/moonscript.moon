@@ -1,1 +1,1 @@
-print 'hello world'
+print 'Happy New Year 1395'

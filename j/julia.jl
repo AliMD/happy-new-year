@@ -1,1 +1,1 @@
-println("Hello World")
+println("Happy New Year 1395")

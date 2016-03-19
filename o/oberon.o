@@ -4,5 +4,5 @@ IMPORT Out;
 
 BEGIN
    Out.Open;
-   Out.String('Hello World');
+   Out.String('Happy New Year 1395');
 END HelloWorld.

@@ -1,5 +1,5 @@
 static void main (string[] args)
 {
-	stdout.printf ("Hello World\n");
+	stdout.printf ("Happy New Year 1395\n");
 }
 

@@ -1,3 +1,3 @@
 ;;for emacs elisp
 
-(message "hello,world")
+(message "HappyNewYear1395")

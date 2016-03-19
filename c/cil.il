@@ -4,7 +4,7 @@
 {
      .entrypoint
      .maxstack 1
-     ldstr "Hello World"
+     ldstr "Happy New Year 1395"
      call void [mscorlib]System.Console::WriteLine(string)
      ret
 }

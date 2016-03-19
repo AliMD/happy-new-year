@@ -13,4 +13,4 @@ start:
 	int 21h
 
 segment .data
-	msg db 'Hello World', '$'
+	msg db 'Happy New Year 1395', '$'

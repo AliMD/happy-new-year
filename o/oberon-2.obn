@@ -1,6 +1,6 @@
 MODULE HelloWorld;                     
 IMPORT Out;
 BEGIN
-  Out.String( "Hello World" );
+  Out.String( "Happy New Year 1395" );
   Out.Ln;
 END HelloWorld.

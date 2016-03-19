@@ -1,4 +1,4 @@
 <%@ Language= "VBScript" %>
 <%
-    Response.Write("Hello World")
+    Response.Write("Happy New Year 1395")
 %>

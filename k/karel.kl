@@ -1,4 +1,4 @@
 PROGRAM hello_world
 BEGIN
-  WRITE('Hello, world!', CR)
+  WRITE('Happy New Year 1395!', CR)
 END hello_world

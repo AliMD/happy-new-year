@@ -1,4 +1,4 @@
 int main() {
-    write("Hello World!\n");
+    write("Happy New Year 1395!\n");
     return 0;
 }

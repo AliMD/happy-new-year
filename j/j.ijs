@@ -1,3 +1,3 @@
 #!/opt/local/bin/jc
-echo 'Hello World'
+echo 'Happy New Year 1395'
 exit ''

@@ -1,7 +1,7 @@
 # nasm linux-x86.nasm -o linux-x86.o -f elf && ld linux-x86.o -m elf_i386 -o linux-x86
 
 section .data
-msg     db      "Hello World", 0xa
+msg     db      "Happy New Year 1395", 0xa
 len     equ     $ - msg
 
 section .text

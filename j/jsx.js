@@ -1,12 +1,12 @@
 var React = require('react');
 
-var HelloWorld = React.createClass({
-    displayName: 'HelloWorld',
+var HappyNewYear = React.createClass({
+    displayName: 'HappyNewYear',
     render: function() {
         return (
-            <span>Hello World</span>
+            <span>Happy New Year 1395</span>
         );
     }
 });
 
-console.log(React.renderToString(<HelloWorld />));
+console.log(React.renderToString(<HappyNewYear />));

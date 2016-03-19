@@ -1,5 +1,5 @@
 proc main()
     loop
-        WriteLine("Hello, World!")
+        WriteLine("Happy New Year 1395!")
     endloop
 end

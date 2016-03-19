@@ -1,3 +1,3 @@
-fun hello() = print("Hello world!\n");
+fun hello() = print("Happy New Year 1395!\n");
 
 hello()

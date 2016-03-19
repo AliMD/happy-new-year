@@ -1,5 +1,5 @@
 class HelloWorld {
 	static void Main() {
-		System.Console.WriteLine("Hello World");
+		System.Console.WriteLine("Happy New Year 1395");
 	}
 }

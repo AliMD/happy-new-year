@@ -1,7 +1,7 @@
 t	IS	$255
 	LOC	Data_Segment
 	GREG	@
-String	BYTE	"Hello World",#a,0
+String	BYTE	"Happy New Year 1395",#a,0
 
 	LOC	#100
 Main	LDA	t,String

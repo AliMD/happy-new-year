@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-	printf("Hello World\n");
+	printf("Happy New Year 1395\n");
 	return 0;
 }

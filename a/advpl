@@ -1,5 +1,5 @@
 User Function Hello()
-Local cMsg := "Hello, world!"
+Local cMsg := "Happy New Year 1395!"
 conout(cMsg)
 MsgInfo(cMsg)
 Return

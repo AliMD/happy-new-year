@@ -1,5 +1,5 @@
 public class Ash {
   public static func main(args : [String]) {
-    println("Hello, world!")
+    println("Happy New Year 1395!")
   }
 }

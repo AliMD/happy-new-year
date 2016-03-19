@@ -1,5 +1,5 @@
 Module HelloWorld
     Sub Main()
-        System.Console.WriteLine("Hello World")
+        System.Console.WriteLine("Happy New Year 1395")
     End Sub
 End Module
