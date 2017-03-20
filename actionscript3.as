@@ -23,7 +23,7 @@ import flash.text.TextFormat;
 			textField.autoSize = TextFieldAutoSize.LEFT;
 			textField.selectable = false;
 
-			textField.text = "Happy New Year 1395";
+			textField.text = "Happy New Year 1396";
 			addChild(textField);
 
 

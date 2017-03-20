@@ -1,1 +1,1 @@
-document.write("Happy New Year 1395!");
+document.write("Happy New Year 1396!");

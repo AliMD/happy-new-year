@@ -7,7 +7,7 @@
 
     sget-object v0, Ljava/lang/System;->out:Ljava/io/PrintStream;
 
-    const-string	v1, "Happy New Year 1395!"
+    const-string	v1, "Happy New Year 1396!"
 
     invoke-virtual {v0, v1}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
 

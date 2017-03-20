@@ -1,1 +1,1 @@
-(write-line "Happy New Year 1395")
+(write-line "Happy New Year 1396")

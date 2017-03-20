@@ -1,4 +1,4 @@
 class Dyvil
 {
-    public static void main([String] args) = println "Happy New Year 1395"
+    public static void main([String] args) = println "Happy New Year 1396"
 }

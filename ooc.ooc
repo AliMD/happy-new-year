@@ -1,4 +1,4 @@
 main: func {
-    "Happy New Year 1395" println()
+    "Happy New Year 1396" println()
 }
 

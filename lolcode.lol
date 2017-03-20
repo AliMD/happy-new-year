@@ -1,4 +1,4 @@
 HAI
 CAN HAS STDIO?
-VISIBLE "Happy New Year 1395"
+VISIBLE "Happy New Year 1396"
 KTHXBYE

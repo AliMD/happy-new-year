@@ -1,4 +1,4 @@
-! Happy New Year 1395 in Centura
+! Happy New Year 1396 in Centura
 
 Function: HelloWorld
 Description:
@@ -7,4 +7,4 @@ Parameters
 Static Variables
 Local variables
 Actions
- Call SalMessageBox( 'Happy New Year 1395','Message',MB_Ok)
+ Call SalMessageBox( 'Happy New Year 1396','Message',MB_Ok)

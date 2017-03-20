@@ -1,1 +1,1 @@
-WRITE SYS$OUTPUT "Happy New Year 1395!"
+WRITE SYS$OUTPUT "Happy New Year 1396!"

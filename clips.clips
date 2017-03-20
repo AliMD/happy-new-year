@@ -3,6 +3,6 @@
 =>
     (printout t ?x crlf))
 
-(assert (f "Happy New Year 1395"))
+(assert (f "Happy New Year 1396"))
 
 (run)

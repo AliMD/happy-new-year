@@ -1,4 +1,4 @@
 OPEN WINDOW (10;45;500;330;0;"Hello Window")
 While (True)
-  MESSAGE ("Happy New Year 1395!")
+  MESSAGE ("Happy New Year 1396!")
 End while

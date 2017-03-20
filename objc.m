@@ -10,5 +10,5 @@
 
 int main(void)
 {
-    NSLog(@"Happy New Year 1395");
+    NSLog(@"Happy New Year 1396");
 }

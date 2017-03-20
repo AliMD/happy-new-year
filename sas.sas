@@ -2,4 +2,4 @@
      %put &string; 
      %mend; 
 
-%putit(string=Happy New Year 1395!)
+%putit(string=Happy New Year 1396!)

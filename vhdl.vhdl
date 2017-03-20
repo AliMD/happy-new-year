@@ -7,7 +7,7 @@ architecture behaviour of hello_world is
 begin
 	process
     begin
-       write (output, String'("Happy New Year 1395!"));
+       write (output, String'("Happy New Year 1396!"));
        wait;
     end process;
 end behaviour;

@@ -1,5 +1,5 @@
-; Happy New Year 1395 in "PowerBatch Plus+" from Computing Systems Design, Inc.
+; Happy New Year 1396 in "PowerBatch Plus+" from Computing Systems Design, Inc.
 
-Variable        Msg,13,"Happy New Year 1395!"
+Variable        Msg,13,"Happy New Year 1396!"
 
 Write           Msg

@@ -15,4 +15,4 @@ start:
     jr $ ; Loop forever
 
 message:
-    .db "Happy New Year 1395!", 0
+    .db "Happy New Year 1396!", 0

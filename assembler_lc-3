@@ -3,4 +3,4 @@
 			LEA R0, HELLOWORLD
 			PUTS
 	
-HELLOWORLD	.STRINGZ "Happy New Year 1395!\n"
+HELLOWORLD	.STRINGZ "Happy New Year 1396!\n"

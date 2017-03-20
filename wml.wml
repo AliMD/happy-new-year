@@ -1,6 +1,6 @@
 #define HELLOWORLD
   [message]
     speaker="narrator"
-    message=_"Happy New Year 1395"
+    message=_"Happy New Year 1396"
   [/message]
 #enddef

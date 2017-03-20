@@ -1,4 +1,4 @@
-# Happy New Year 1395
+# Happy New Year 1396
 ## In every programming language ;)
 
 Follow me in telegram [@alimd](http://telegram.me/alimd)

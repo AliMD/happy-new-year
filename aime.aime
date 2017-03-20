@@ -1,7 +1,7 @@
 integer
 main(void)
 {
-    o_text("Happy New Year 1395!\n");
+    o_text("Happy New Year 1396!\n");
  
     return 0;
 }

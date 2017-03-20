@@ -1,1 +1,1 @@
-SELECT 'Happy New Year 1395' as hello_message;
+SELECT 'Happy New Year 1396' as hello_message;

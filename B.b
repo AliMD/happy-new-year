@@ -1,4 +1,4 @@
-/* Happy New Year 1395 in B */
+/* Happy New Year 1396 in B */
 
 main() {
     extern a, b, c;

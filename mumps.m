@@ -1,1 +1,1 @@
- w "Happy New Year 1395!",!
+ w "Happy New Year 1396!",!

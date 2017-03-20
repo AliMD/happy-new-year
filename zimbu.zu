@@ -1,4 +1,4 @@
 FUNC Main() int
-  IO.write("Happy New Year 1395!\n")
+  IO.write("Happy New Year 1396!\n")
   RETURN 0
 }

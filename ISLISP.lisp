@@ -1,1 +1,1 @@
-(format (standard-output) "Happy New Year 1395!")
+(format (standard-output) "Happy New Year 1396!")

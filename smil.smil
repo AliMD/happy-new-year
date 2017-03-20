@@ -6,7 +6,7 @@
   </layout>
  </head>
  <body>
-  <text src="data:,HappyNewYear1395!" region="text_region">
+  <text src="data:,HappyNewYear1396!" region="text_region">
    <param name="fontFace" value="Arial"/>
   </text>
  </body>

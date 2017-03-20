@@ -1,1 +1,1 @@
-jlog("Happy New Year 1395")
+jlog("Happy New Year 1396")

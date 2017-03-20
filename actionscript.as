@@ -8,7 +8,7 @@ package
 		private var hello:TextField = new TextField();
 		
 		public function actionscript(){
-			hello.text = "Happy New Year 1395!";
+			hello.text = "Happy New Year 1396!";
 			addChild(hello);
 		}
 	}

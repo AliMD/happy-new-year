@@ -1,1 +1,1 @@
-printfn "Happy New Year 1395!"
+printfn "Happy New Year 1396!"

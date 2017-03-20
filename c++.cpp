@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Happy New Year 1395" << std::endl;
+	std::cout << "Happy New Year 1396" << std::endl;
 	return EXIT_SUCCESS;
 }

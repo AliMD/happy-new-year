@@ -1,2 +1,2 @@
-<cfset message = "Happy New Year 1395">
+<cfset message = "Happy New Year 1396">
 <cfoutput> #message#</cfoutput>

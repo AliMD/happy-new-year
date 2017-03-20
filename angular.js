@@ -1,2 +1,2 @@
 $scope.$log = $log;
-$scope.message = 'Happy New Year 1395!';
+$scope.message = 'Happy New Year 1396!';

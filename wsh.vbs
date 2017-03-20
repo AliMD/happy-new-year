@@ -1,2 +1,2 @@
-WScript.Echo "Happy New Year 1395"
+WScript.Echo "Happy New Year 1396"
 WScript.Quit

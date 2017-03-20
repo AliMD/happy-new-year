@@ -1,1 +1,1 @@
-SELECT 'Happy New Year 1395!' FROM DUAL;
+SELECT 'Happy New Year 1396!' FROM DUAL;

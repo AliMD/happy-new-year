@@ -2,5 +2,5 @@
 
 v6;
 
-say "Happy New Year 1395!";
+say "Happy New Year 1396!";
 

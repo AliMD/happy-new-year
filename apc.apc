@@ -1,4 +1,4 @@
 probe program
 {
-	on_entry log ("Happy New Year 1395!\n");
+	on_entry log ("Happy New Year 1396!\n");
 }

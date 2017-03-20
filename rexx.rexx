@@ -1,2 +1,2 @@
 <<hello.rexx>>=
-Say "Happy New Year 1395!"
+Say "Happy New Year 1396!"

@@ -1,3 +1,3 @@
 fn main() {
-    println!("Happy New Year 1395!");
+    println!("Happy New Year 1396!");
 }

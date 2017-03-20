@@ -2,5 +2,5 @@ GET "LIBHDR"
 
 LET START() BE
 $(
-  WRITES("Happy New Year 1395!*N")
+  WRITES("Happy New Year 1396!*N")
 $)

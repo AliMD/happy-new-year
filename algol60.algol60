@@ -1,6 +1,6 @@
 BEGIN
   FILE F(KIND=REMOTE);
   EBCDIC ARRAY E[0:11];
-  REPLACE E BY "Happy New Year 1395!";
+  REPLACE E BY "Happy New Year 1396!";
   WRITE(F, *, E);
 END.

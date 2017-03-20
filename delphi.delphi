@@ -1,8 +1,8 @@
-// Happy New Year 1395 in Delphi
+// Happy New Year 1396 in Delphi
 Program Hello_World;
 
 ($APPTYPE CONSOLE)
 
 Begin
-  WriteLn('Happy New Year 1395');
+  WriteLn('Happy New Year 1396');
 End.

@@ -1,5 +1,5 @@
 The following tab indented lines will cause a true vi with modelines
-activated to infinitely loop puting "Happy New Year 1395" in the buffer. Hit
+activated to infinitely loop puting "Happy New Year 1396" in the buffer. Hit
  to abort the loop and see the output. None of the vi clones
 support modelines this powerful, and modelines are diabled by default.
 Set the environment variable EXINIT to "set ml" to activate modelines.
@@ -8,7 +8,7 @@ Set the environment variable EXINIT to "set ml" to activate modelines.
 	vi: $-1y b :
 	vi: @b :
 	put a |@b
-	Happy New Year 1395
+	Happy New Year 1396
 
 Whitespace is largely insignificant, but these must be the last five
 lines in the file to work properly. Unless it is in "vi: ... :" or

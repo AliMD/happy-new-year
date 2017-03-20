@@ -1,1 +1,1 @@
-IO.print("Happy New Year 1395")
+IO.print("Happy New Year 1396")

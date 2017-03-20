@@ -1,1 +1,1 @@
-cat("Happy New Year 1395\n")
+cat("Happy New Year 1396\n")

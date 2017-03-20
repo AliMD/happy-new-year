@@ -1,1 +1,1 @@
-(print "Happy New Year 1395!")
+(print "Happy New Year 1396!")

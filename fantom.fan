@@ -1,6 +1,6 @@
 // Hello from Fantom!
 class HelloWorld {
   static Void main() {
-    echo("Happy New Year 1395!")
+    echo("Happy New Year 1396!")
   }
 }

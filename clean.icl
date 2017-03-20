@@ -1,3 +1,3 @@
 module hello
 Start :: {#Char}
-Start = "Happy New Year 1395!"
+Start = "Happy New Year 1396!"

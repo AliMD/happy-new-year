@@ -6,5 +6,5 @@
  - Licensed under public domain.
  -}
 
-Println("Happy New Year 1395!") >>
+Println("Happy New Year 1396!") >>
 stop

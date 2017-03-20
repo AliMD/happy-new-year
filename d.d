@@ -1,7 +1,7 @@
-// Happy New Year 1395 in D
+// Happy New Year 1396 in D
 import std.stdio;
 
 void main()
 {
-	   writefln("Happy New Year 1395!");
+	   writefln("Happy New Year 1396!");
 }

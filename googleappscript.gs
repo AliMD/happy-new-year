@@ -1,3 +1,3 @@
 function helloWorld() {
-  Logger.log('Happy New Year 1395');
+  Logger.log('Happy New Year 1396');
 }

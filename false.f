@@ -1,2 +1,2 @@
-"Happy New Year 1395!
+"Happy New Year 1396!
 "

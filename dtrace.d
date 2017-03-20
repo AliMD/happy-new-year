@@ -1,5 +1,5 @@
 #!/usr/sbin/dtrace -qs
 BEGIN {
-	printf("Happy New Year 1395");
+	printf("Happy New Year 1396");
 	exit(0);
 }

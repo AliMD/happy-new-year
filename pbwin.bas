@@ -3,6 +3,6 @@
 
 FUNCTION PBMAIN () AS LONG
 
-    MSGBOX "Happy New Year 1395"
+    MSGBOX "Happy New Year 1396"
 
 END FUNCTION

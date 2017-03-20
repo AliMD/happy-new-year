@@ -8,5 +8,5 @@ myformat.color = 0xff0000;
 myformat.bullet = false;
 myformat.underline = true;
 
-mytext.text = "Happy New Year 1395!";
+mytext.text = "Happy New Year 1396!";
 mytext.setTextFormat(myformat);

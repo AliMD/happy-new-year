@@ -2,7 +2,7 @@
 .model small
 .stack
 .data
-    message   db "Happy New Year 1395!", "$"
+    message   db "Happy New Year 1396!", "$"
 .code
     main    proc
         mov   ax,seg message

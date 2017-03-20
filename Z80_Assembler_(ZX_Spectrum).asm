@@ -17,5 +17,5 @@ EXIT
 SCR equ 16384
 
 STRING
-	defb "Happy New Year 1395!"
+	defb "Happy New Year 1396!"
 	defb 13, 0

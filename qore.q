@@ -4,7 +4,7 @@ class HelloWorld
 {
     constructor()
     {
-	    background $.say("Happy New Year 1395");
+	    background $.say("Happy New Year 1396");
     }
     private say($arg)
     {

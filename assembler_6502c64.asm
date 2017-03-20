@@ -7,5 +7,5 @@ in:
 lda hello,y
 bne loop
 rts
-hello: .tx "Happy New Year 1395!"
+hello: .tx "Happy New Year 1396!"
        .by 13,10,0
